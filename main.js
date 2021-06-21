@@ -135,6 +135,12 @@ const app = {
             singer: "Đen",
             path: "./assets/music/Mười năm.mp3",
             image: "./assets/image/muoi_nam.png"
+        },
+        {
+            name: "Usntoppable",
+            singer: "Sia",
+            path: "./assets/music/Unstoppable - Sia (Lyrics + Vietsub) ♫.mp3",
+            image: "./assets/image/sia.jpg"
         }
     ],
 
